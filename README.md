@@ -2,6 +2,8 @@
 
 **UDT Optimizer** is a Flask-based application designed to optimize and clean Allen-Bradley `.l5x` User-Defined Type (UDT) files. The app provides a simple web interface where users can upload `.l5x` files, process them to improve structure or remove redundancies, and download the optimized version with an appropriate filename.
 
+<img width="1817" height="859" alt="image" src="https://github.com/user-attachments/assets/884ea76d-9813-4a16-8901-d2b751f85e80" />
+
 ## Features
 
 - Upload `.l5x` files via drag-and-drop or file browser.
